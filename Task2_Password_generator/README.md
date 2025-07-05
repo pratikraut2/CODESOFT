@@ -14,7 +14,7 @@ A simple Python tool to generate strong, random passwords with customizable leng
 3. Run:
 
     ```bash
-    python password_generator.py
+    python main.py
     ```
 
 ## Requirements
