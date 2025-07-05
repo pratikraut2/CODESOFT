@@ -18,4 +18,4 @@ A simple contact book built using core Python and JSON for data storage. It runs
 ## 🚀 Run it
 
 ```bash
-python contact_book.py
+python main.py
