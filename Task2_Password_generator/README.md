@@ -1,8 +1,24 @@
-# 💼 CODSOFT Internship Tasks (Python Projects)
+# 🔐 Password Generator
 
-This repository includes all completed internship tasks for CODSOFT using Python.
+A simple Python tool to generate strong, random passwords with customizable length and character types.
 
-## ✅ Tasks
+## Features
 
-- [Task 1 - To-Do List GUI](./Task_1_ToDo_GUI)
-- [Task 2 - Password Generator](./Task_2_Password_Generator)
+- Generate passwords of chosen length
+- Include/exclude uppercase, lowercase, numbers, and symbols
+
+## How to Run
+
+1. Clone the repository.
+2. Go to the `Task2_Password_Generator` directory.
+3. Run:
+
+    ```bash
+    python password_generator.py
+    ```
+
+## Requirements
+
+- Python 3.x (no external libraries)
+
+
